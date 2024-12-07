@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pharmacy-Admin-application/login/static/css/main.e6c13ad2.css",
+    "main.js": "/Pharmacy-Admin-application/login/static/js/main.2a4196df.js",
+    "static/js/488.e40e65f2.chunk.js": "/Pharmacy-Admin-application/login/static/js/488.e40e65f2.chunk.js",
+    "index.html": "/Pharmacy-Admin-application/login/index.html",
+    "main.e6c13ad2.css.map": "/Pharmacy-Admin-application/login/static/css/main.e6c13ad2.css.map",
+    "main.2a4196df.js.map": "/Pharmacy-Admin-application/login/static/js/main.2a4196df.js.map",
+    "488.e40e65f2.chunk.js.map": "/Pharmacy-Admin-application/login/static/js/488.e40e65f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2a4196df.js"
+  ]
+}
