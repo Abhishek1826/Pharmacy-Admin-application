@@ -11,7 +11,7 @@ const UsersListing = () => {
 
   // Fetch all users on page load
   useEffect(() => {
-    fetch("/users.json")
+    fetch("/public/users.json")
       .then((response) => response.json())
       .then((data) => {
         setUsers(data);
