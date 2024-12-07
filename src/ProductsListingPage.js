@@ -3,7 +3,7 @@ import { Checkbox, FormControlLabel, Paper, Typography, Box, FormGroup, Table, T
 
 // Function to fetch product data
 const fetchProducts = async () => {
-  const response = await fetch('/products.json'); // Update this path to match your actual API
+  const response = await fetch('/public/products.json'); // Update this path to match your actual API
   const data = await response.json();
   return data;
 };
