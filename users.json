@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane.smith@example.com",
+      "role": "User"
+    },
+    {
+      "id": 3,
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "email": "bob.johnson@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 4,
+      "firstName": "Alice",
+      "lastName": "Williams",
+      "email": "alice.williams@example.com",
+      "role": "User"
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Brown",
+      "email": "charlie.brown@example.com",
+      "role": "User"
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Martinez",
+      "email": "david.martinez@example.com",
+      "role": "User"
+    },
+    {
+      "id": 7,
+      "firstName": "Emma",
+      "lastName": "Davis",
+      "email": "emma.davis@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 8,
+      "firstName": "Frank",
+      "lastName": "Garcia",
+      "email": "frank.garcia@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 9,
+      "firstName": "Grace",
+      "lastName": "Rodriguez",
+      "email": "grace.rodriguez@example.com",
+      "role": "User"
+    },
+    {
+      "id": 10,
+      "firstName": "Henry",
+      "lastName": "Lopez",
+      "email": "henry.lopez@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 11,
+      "firstName": "Ivy",
+      "lastName": "Martinez",
+      "email": "ivy.martinez@example.com",
+      "role": "User"
+    },
+    {
+      "id": 12,
+      "firstName": "Jack",
+      "lastName": "Miller",
+      "email": "jack.miller@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 13,
+      "firstName": "Kelly",
+      "lastName": "Hernandez",
+      "email": "kelly.hernandez@example.com",
+      "role": "User"
+    },
+    {
+      "id": 14,
+      "firstName": "Liam",
+      "lastName": "Perez",
+      "email": "liam.perez@example.com",
+      "role": "User"
+    },
+    {
+      "id": 15,
+      "firstName": "Mia",
+      "lastName": "Taylor",
+      "email": "mia.taylor@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 16,
+      "firstName": "Noah",
+      "lastName": "Anderson",
+      "email": "noah.anderson@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 17,
+      "firstName": "Olivia",
+      "lastName": "Thomas",
+      "email": "olivia.thomas@example.com",
+      "role": "User"
+    },
+    {
+      "id": 18,
+      "firstName": "Paul",
+      "lastName": "Jackson",
+      "email": "paul.jackson@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 19,
+      "firstName": "Quinn",
+      "lastName": "White",
+      "email": "quinn.white@example.com",
+      "role": "User"
+    },
+    {
+      "id": 20,
+      "firstName": "Riley",
+      "lastName": "Harris",
+      "email": "riley.harris@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 21,
+      "firstName": "Sophia",
+      "lastName": "Clark",
+      "email": "sophia.clark@example.com",
+      "role": "User"
+    },
+    {
+      "id": 22,
+      "firstName": "Thomas",
+      "lastName": "Lewis",
+      "email": "thomas.lewis@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 23,
+      "firstName": "Ursula",
+      "lastName": "Young",
+      "email": "ursula.young@example.com",
+      "role": "User"
+    },
+    {
+      "id": 24,
+      "firstName": "Victor",
+      "lastName": "Walker",
+      "email": "victor.walker@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 25,
+      "firstName": "Wendy",
+      "lastName": "Allen",
+      "email": "wendy.allen@example.com",
+      "role": "User"
+    },
+    {
+      "id": 26,
+      "firstName": "Xander",
+      "lastName": "King",
+      "email": "xander.king@example.com",
+      "role": "User"
+    },
+    {
+      "id": 27,
+      "firstName": "Yara",
+      "lastName": "Scott",
+      "email": "yara.scott@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 28,
+      "firstName": "Zane",
+      "lastName": "Green",
+      "email": "zane.green@example.com",
+      "role": "User"
+    },
+    {
+      "id": 29,
+      "firstName": "Abigail",
+      "lastName": "Adams",
+      "email": "abigail.adams@example.com",
+      "role": "Admin"
+    },
+    {
+      "id": 30,
+      "firstName": "Benjamin",
+      "lastName": "Carter",
+      "email": "benjamin.carter@example.com",
+      "role": "User"
+    }
+  ]
+  

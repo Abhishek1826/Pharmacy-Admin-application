@@ -1,0 +1,227 @@
+[
+    {
+      "id": 1,
+      "productName": "Aspirin 100mg",
+      "category": "Pain Relief",
+      "expiryDate": "2024-12-15",
+      "stock": 50,
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "productName": "Paracetamol 500mg",
+      "category": "Fever Reducer",
+      "expiryDate": "2025-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "productName": "Ibuprofen 200mg",
+      "category": "Anti-inflammatory",
+      "expiryDate": "2025-12-20",
+      "stock": 30,
+      "price": 19.99
+    },
+    {
+      "id": 4,
+      "productName": "Amoxicillin 500mg",
+      "category": "Antibiotics",
+      "expiryDate": "2025-12-15",
+      "stock": 500,
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "productName": "Cough Syrup 100ml",
+      "category": "Cough & Cold",
+      "expiryDate": "2024-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 6,
+      "productName": "Omeprazole 20mg",
+      "category": "Digestive Health",
+      "expiryDate": "2025-12-20",
+      "stock": 300,
+      "price": 19.99
+    },
+    {
+      "id": 7,
+      "productName": "Cetirizine 10mg",
+      "category": "Allergy Relief",
+      "expiryDate": "2027-12-15",
+      "stock": 150,
+      "price": 29.99
+    },
+    {
+      "id": 8,
+      "productName": "Salbutamol Inhaler",
+      "category": "Respiratory Health",
+      "expiryDate": "2024-01-10",
+      "stock": 20,
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "productName": "Calcium Tablets",
+      "category": "Bone Health",
+      "expiryDate": "2023-12-20",
+      "stock": 340,
+      "price": 19.99
+    },
+    {
+      "id": 10,
+      "productName": "Vitamin C 1000mg",
+      "category": "Vitamins & Supplements",
+      "expiryDate": "2028-12-15",
+      "stock": 68,
+      "price": 29.99
+    },
+    {
+      "id": 11,
+      "productName": "Loperamide 2mg",
+      "category": "Diarrhea Treatment",
+      "expiryDate": "2029-01-10",
+      "stock": 270,
+      "price": 49.99
+    },
+    {
+      "id": 12,
+      "productName": "Diphenhydramine 25mg",
+      "category": "Allergy Relief",
+      "expiryDate": "2025-12-20",
+      "stock": 305,
+      "price": 19.99
+    },
+    {
+      "id": 13,
+      "productName": "Lisinopril 10mg",
+      "category": "Heart Health",
+      "expiryDate": "2024-12-15",
+      "stock": 75,
+      "price": 29.99
+    },
+    {
+      "id": 14,
+      "productName": "Paracetamol 500mg",
+      "category": "Pain Relief",
+      "expiryDate": "2025-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 15,
+      "productName": "Prednisolone 5mg",
+      "category": "Anti-inflammatory",
+      "expiryDate": "2025-12-20",
+      "stock": 304,
+      "price": 19.99
+    },
+    {
+      "id": 16,
+      "productName": "Ibuprofen 400mg",
+      "category": "Pain Relief",
+      "expiryDate": "2023-12-15",
+      "stock": 500,
+      "price": 29.99
+    },
+    {
+      "id": 17,
+      "productName": "Salbutamol 100mcg",
+      "category": "Respiratory Health",
+      "expiryDate": "2024-01-10",
+      "stock": 201,
+      "price": 49.99
+    },
+    {
+      "id": 18,
+      "productName": "Amlodipine 5mg",
+      "category": "Heart Health",
+      "expiryDate": "2025-12-20",
+      "stock": 111,
+      "price": 19.99
+    },
+    {
+      "id": 19,
+      "productName": "Magnesium 250mg",
+      "category": "Vitamins & Supplements",
+      "expiryDate": "2026-12-15",
+      "stock": 258,
+      "price": 29.99
+    },
+    {
+      "id": 20,
+      "productName": "Metformin 500mg",
+      "category": "Diabetes",
+      "expiryDate": "2026-01-10",
+      "stock": 30,
+      "price": 49.99
+    },
+    {
+      "id": 21,
+      "productName": "Atenolol 50mg",
+      "category": "Heart Health",
+      "expiryDate": "2026-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 22,
+      "productName": "Furosemide 40mg",
+      "category": "Heart Health",
+      "expiryDate": "2026-12-20",
+      "stock": 30,
+      "price": 19.99
+    },
+    {
+      "id": 23,
+      "productName": "Vitamin D3 1000 IU",
+      "category": "Vitamins & Supplements",
+      "expiryDate": "2026-12-15",
+      "stock": 50,
+      "price": 29.99
+    },
+    {
+      "id": 24,
+      "productName": "Zinc 25mg",
+      "category": "Vitamins & Supplements",
+      "expiryDate": "2025-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 25,
+      "productName": "Chlorpheniramine 4mg",
+      "category": "Allergy Relief",
+      "expiryDate": "2023-12-20",
+      "stock": 30,
+      "price": 19.99
+    },
+    {
+      "id": 26,
+      "productName": "Prednisone 10mg",
+      "category": "Anti-inflammatory",
+      "expiryDate": "2023-12-15",
+      "stock": 50,
+      "price": 29.99
+    },
+    {
+      "id": 27,
+      "productName": "Simvastatin 20mg",
+      "category": "Cholesterol Management",
+      "expiryDate": "2024-01-10",
+      "stock": 200,
+      "price": 49.99
+    },
+    {
+      "id": 28,
+      "productName": "Omeprazole 20mg",
+      "category": "Digestive Health",
+      "expiryDate": "2023-12-20",
+      "stock": 30,
+      "price": 19.99
+    }
+  ]
+  
