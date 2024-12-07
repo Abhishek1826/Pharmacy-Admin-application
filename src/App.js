@@ -30,10 +30,10 @@ function App() {
     <Router>
       <Navbar loggedIn={loggedIn} logout={logout} />
       <Routes>
-        <Route path="/login" element={<LoginPage login={login} />} />
-        <Route path="/orders" element={<OrdersListingPage />} />
-        <Route path="/products" element={<ProductsListingPage />} />
-        <Route path="/users" element={<UsersListing />} />
+        <Route path="/LoginPage" element={<LoginPage login={login} />} />
+        <Route path="/OrdersListingPage" element={<OrdersListingPage />} />
+        <Route path="/ProductsListingPage" element={<ProductsListingPage />} />
+        <Route path="/UsersListing" element={<UsersListing />} />
         
       </Routes>
     </Router>
