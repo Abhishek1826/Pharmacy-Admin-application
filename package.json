@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
-  "homepage": "/login",
+  "homepage": "https://abhishek1826.github.io/Pharmacy-Admin-application/login",
   "dependencies": {
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
